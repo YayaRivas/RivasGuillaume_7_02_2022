@@ -1,0 +1,26 @@
+{
+  "name": "lespetitsplats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scripts": "sass --watch ./scss/style.scss:./scss/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YayaRivas-github/YayaRivas_7_01112021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YayaRivas-github/GuillaumeRivas_7_01112021/issues"
+  },
+  "homepage": "https://github.com/YayaRivas-github/GuillaumeRivas_7_01112021#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  },
+  "description": ""
+}
